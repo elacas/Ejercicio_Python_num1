@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70c7a1cb-be4e-4aba-aa34-2a34e3db50c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Clase1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase1/02.py" afterDir="false" />
-    </list>
+    <list default="true" id="70c7a1cb-be4e-4aba-aa34-2a34e3db50c4" name="Changes" comment="Clase 1," />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
